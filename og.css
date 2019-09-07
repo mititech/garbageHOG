@@ -1,0 +1,7 @@
+body { background-color: #eee; }
+#target { width: 1776px; height: 1000px; }
+#target.menu { background-image: url("openscreen.png"); }
+#target.game { background-image: url("coffeeshop.jpg"); }
+#target.replay { background-image: url("playagain.png"); }
+#begin { position: absolute; }
+.menu #begin { top: 500px; left: 500px; }
